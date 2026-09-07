@@ -18,4 +18,4 @@ Designed for:
 Run as root:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/pterodactyl-node-optimizer/main/optimize-node.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimizer1/main/optimize-node.sh)

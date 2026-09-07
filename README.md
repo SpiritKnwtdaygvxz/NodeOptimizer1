@@ -19,5 +19,7 @@ Run as root:
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimizer1/main/NodeOptimizerv2.sh)
+```
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimizer1/main/diagnose.sh)
+```

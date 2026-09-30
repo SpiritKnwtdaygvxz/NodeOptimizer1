@@ -23,3 +23,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimi
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimizer1/main/diagnose.sh)
 ```
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/SpiritKnwtdaygvxz/NodeOptimizer1/main/AutoClearNode.sh)
+```
